@@ -31,7 +31,7 @@
 #### Branch
 - `barnach - 사용자명`
 #### Commmit Message
-- `[Baekjoon-문제번호] 문제명`
+- `문제명_`
 #### 파일 및 폴더 구조
 - `n주차/n주차_원진/문제명.java`
 - `n주차/n주차_우진/문제명.java`
