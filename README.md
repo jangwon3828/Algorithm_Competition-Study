@@ -33,9 +33,10 @@
 #### Commmit Message
 - [Baekjoon-문제번호] 문제명
 #### 파일 및 폴더 구조
-- Baekjoon/wonjin/알고리즘/문제명.java
-- Baekjoon/woojin/알고리즘/문제명.java
-- Baekjoon/woohyeon/알고리즘/문제명.java
+- n주차/n주차_원진/알고리즘/문제명.java
+- n주차/n주차_원진/알고리즘/문제명.java
+- n주차/n주차_원진/알고리즘/문제명.java
+
 
 ## 일정표
 | 회차 | 이름 | 알고리즘 분류 | 티어  | 문제 | 완료여부 |
