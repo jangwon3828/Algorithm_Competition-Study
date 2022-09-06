@@ -29,13 +29,13 @@
 
 ## 레포지토리 관리 규칙
 #### Branch
-- barnach - 사용자명
+- `barnach - 사용자명`
 #### Commmit Message
-- [Baekjoon-문제번호] 문제명
+- `[Baekjoon-문제번호] 문제명`
 #### 파일 및 폴더 구조
-- Baekjoon/wonjin/알고리즘/문제명.java
-- Baekjoon/woojin/알고리즘/문제명.java
-- Baekjoon/woohyeon/알고리즘/문제명.java
+- `Baekjoon/wonjin/알고리즘/문제명.java`
+- `Baekjoon/woojin/알고리즘/문제명.java`
+- `Baekjoon/woohyeon/알고리즘/문제명.java`
 
 ## 일정표
 | 회차 | 이름 | 알고리즘 분류 | 티어  | 문제 | 완료여부 |
