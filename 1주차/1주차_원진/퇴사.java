@@ -4,6 +4,7 @@ public class 퇴사 {
     static int a;
     static int ans=Integer.MIN_VALUE;
     static int arr[][];
+
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         a=sc.nextInt();
