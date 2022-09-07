@@ -35,6 +35,7 @@ public class 부등호 {
         }
         return true;
     }
+
     static void go(int index,String num){
         if(index==n+1){
             if(ok(num)){
