@@ -47,7 +47,6 @@ public class 부등호 {
             check[i]=true;
             go(index+1,num+Integer.toString(i));
             check[i]=false;
-
         }
     }
 }
