@@ -1,6 +1,7 @@
 import java.util.Scanner;
 
 public class 1,2,3 더하기 {
+
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int N = sc.nextInt();
