@@ -12,6 +12,11 @@
 |`2022-09-07`| DP | `실버3` | [2xN 타일링](https://www.acmicpc.net/problem/11726) | [풀이](https://github.com/jangwon3828/Algorithm_Competition-Study/blob/woojin/1%EC%A3%BC%EC%B0%A8/1%EC%A3%BC%EC%B0%A8_%EC%9A%B0%EC%A7%84/2xN%20%ED%83%80%EC%9D%BC%EB%A7%81.java) |
 |`2022-09-07`| DP | `실버3` | [2xN 타일링2](https://www.acmicpc.net/problem/11727) | [풀이](https://github.com/jangwon3828/Algorithm_Competition-Study/blob/woojin/1%EC%A3%BC%EC%B0%A8/1%EC%A3%BC%EC%B0%A8_%EC%9A%B0%EC%A7%84/2xN%20%ED%83%80%EC%9D%BC%EB%A7%81%202.java) |
 |`2022-09-07`| DP | `실버3` | [1,2,3 더하기](https://www.acmicpc.net/problem/9095) | [풀이](https://github.com/jangwon3828/Algorithm_Competition-Study/blob/woojin/1%EC%A3%BC%EC%B0%A8/1%EC%A3%BC%EC%B0%A8_%EC%9A%B0%EC%A7%84/1%2C2%2C3%20%EB%8D%94%ED%95%98%EA%B8%B0.java) |
+|`2022-09-08`| DP | `실버1` | [카드 구매하기](https://www.acmicpc.net/problem/11052) | [풀이](https://github.com/jangwon3828/Algorithm_Competition-Study/blob/woojin/1%EC%A3%BC%EC%B0%A8/1%EC%A3%BC%EC%B0%A8_%EC%9A%B0%EC%A7%84/%EC%B9%B4%EB%93%9C%20%EA%B5%AC%EB%A7%A4%ED%95%98%EA%B8%B0.java) |
+|`2022-09-08`| DP | `실버1` | [카드 구매하기2](https://www.acmicpc.net/problem/16194) | [풀이](https://github.com/jangwon3828/Algorithm_Competition-Study/blob/woojin/1%EC%A3%BC%EC%B0%A8/1%EC%A3%BC%EC%B0%A8_%EC%9A%B0%EC%A7%84/%EC%B9%B4%EB%93%9C%20%EA%B5%AC%EB%A7%A4%ED%95%98%EA%B8%B02.java) |
+|`2022-09-08`| DP | `실버2` | [1,2,3 더하기 5](https://www.acmicpc.net/problem/15990) | [풀이](https://github.com/jangwon3828/Algorithm_Competition-Study/blob/woojin/1%EC%A3%BC%EC%B0%A8/1%EC%A3%BC%EC%B0%A8_%EC%9A%B0%EC%A7%84/1%2C2%2C3%20%EB%8D%94%ED%95%98%EA%B8%B05.java) |
+|`2022-09-08`| DP | `실버1` | [쉬운 계단 수](https://www.acmicpc.net/problem/10844) | [풀이](https://github.com/jangwon3828/Algorithm_Competition-Study/blob/woojin/1%EC%A3%BC%EC%B0%A8/1%EC%A3%BC%EC%B0%A8_%EC%9A%B0%EC%A7%84/%EC%89%AC%EC%9A%B4%20%EA%B3%84%EB%8B%A8%20%EC%88%98.java) |
+|`2022-09-08`| DP | `실버3` | [이친수](https://www.acmicpc.net/problem/2193) | [풀이](https://github.com/jangwon3828/Algorithm_Competition-Study/blob/woojin/1%EC%A3%BC%EC%B0%A8/1%EC%A3%BC%EC%B0%A8_%EC%9A%B0%EC%A7%84/%EC%9D%B4%EC%B9%9C%EC%88%98.java) |
 
 
 </div>
