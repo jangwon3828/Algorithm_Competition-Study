@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class 가장 긴 증가하는 부분 수열 {
+public class 가장 긴 증가하는 부분 {
     public static void main(String args[]) {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
