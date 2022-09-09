@@ -12,5 +12,4 @@
 | `2022-09-08` | 브루트 포스, 순열 | `실버3` | [다음 순열](https://www.acmicpc.net/problem/10972)  | [풀이](https://github.com/jangwon3828/Algorithm_Competition-Study/blob/wonjin/1%EC%A3%BC%EC%B0%A8/1%EC%A3%BC%EC%B0%A8_%EC%9B%90%EC%A7%84/%EB%8B%A4%EC%9D%8C%EC%88%9C%EC%97%B4.java) |
 | `2022-09-08` | 브루트 포스, 순열 | `실버3` | [이전 순열](https://www.acmicpc.net/problem/10973)  | [풀이](https://github.com/jangwon3828/Algorithm_Competition-Study/blob/wonjin/1%EC%A3%BC%EC%B0%A8/1%EC%A3%BC%EC%B0%A8_%EC%9B%90%EC%A7%84/%EC%9D%B4%EC%A0%84%EC%88%9C%EC%97%B4.java) |
 
-
 </div>
