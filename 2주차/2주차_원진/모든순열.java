@@ -15,7 +15,6 @@ public class 모든순열 {
         while (a[j] <= a[i-1]) {
             j -= 1;
         }
-
         int temp = a[i-1];
         a[i-1] = a[j];
         a[j] = temp;
