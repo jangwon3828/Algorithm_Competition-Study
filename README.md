@@ -40,6 +40,10 @@
 ## 일정표
 | 회차 | 이름 | 알고리즘 분류 | 티어  | 문제 | 완료여부 |
 | :---: | :---: | :---: | :---: | :---:| :---:|
-| **1주차**| 원진 | 브루트 포스, 재귀  | `실버5~골드1` | [원진-1주차](https://github.com/jangwon3828/2022-Algorithm-Study/tree/main/1%EC%A3%BC%EC%B0%A8/1%EC%A3%BC%EC%B0%A8_%EC%9B%90%EC%A7%84) | `진행중` |
-| -| 우진 | 브루트 포스, 재귀  |`실버5~골드1`| [우진-1주차](https://github.com/jangwon3828/2022-Algorithm-Study/tree/main/1%EC%A3%BC%EC%B0%A8/1%EC%A3%BC%EC%B0%A8_%EC%9A%B0%EC%A7%84) | `진행중` |
-| -|  우현 |브루트 포스  | `실버5~골드1` | [우현-1주차](https://github.com/jangwon3828/2022-Algorithm-Study/tree/main/1%EC%A3%BC%EC%B0%A8/1%EC%A3%BC%EC%B0%A8_%EC%9A%B0%ED%98%84) |`진행중` |
+| **1주차**| 원진 | 브루트 포스, 재귀  | `실버5~골드1` | [원진-1주차](https://github.com/jangwon3828/2022-Algorithm-Study/tree/main/1%EC%A3%BC%EC%B0%A8/1%EC%A3%BC%EC%B0%A8_%EC%9B%90%EC%A7%84) | `완료` |
+| -| 우진 | 브루트 포스, 재귀  |`실버5~골드1`| [우진-1주차](https://github.com/jangwon3828/2022-Algorithm-Study/tree/main/1%EC%A3%BC%EC%B0%A8/1%EC%A3%BC%EC%B0%A8_%EC%9A%B0%EC%A7%84) | `완료` |
+| -|  우현 |브루트 포스  | `실버5~골드1` | [우현-1주차](https://github.com/jangwon3828/2022-Algorithm-Study/tree/main/1%EC%A3%BC%EC%B0%A8/1%EC%A3%BC%EC%B0%A8_%EC%9A%B0%ED%98%84) |`완료` |
+| **2주차**| 원진 | 브루트 포스, 재귀  | `실버5~골드1` | [원진-2주차](https://github.com/jangwon3828/Algorithm_Competition-Study/tree/main/2%EC%A3%BC%EC%B0%A8/2%EC%A3%BC%EC%B0%A8_%EC%9B%90%EC%A7%84) | `진행중` |
+| -| 우진 | 브루트 포스, 재귀  |`실버5~골드1`| [우진-2주차](https://github.com/jangwon3828/Algorithm_Competition-Study/tree/main/2%EC%A3%BC%EC%B0%A8/2%EC%A3%BC%EC%B0%A8_%EC%9A%B0%EC%A7%84) | `진행중` |
+| -|  우현 |브루트 포스  | `실버5~골드1` | [우현-2주차](https://github.com/jangwon3828/Algorithm_Competition-Study/tree/main/2%EC%A3%BC%EC%B0%A8/2%EC%A3%BC%EC%B0%A8_%EC%9A%B0%ED%98%84) |`진행중` |
+
