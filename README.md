@@ -10,7 +10,7 @@
 ## Member
 | 📖 | 💻 | 🤸‍♂️ |
 | :----: | :----: | :----: |
-| [장원진](https://github.com/NYC3644) | [정우진](https://github.com/NYC3644)| [조우현](https://github.com/NYC3644) |
+| [장원진](https://github.com/jangwon3828) | [정우진](https://github.com/WooJinDeve)| [조우현](https://github.com/woohyeonjoe) |
 
 ## 스터디 방식
 #### 문제 풀이
