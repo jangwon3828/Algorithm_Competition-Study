@@ -11,5 +11,5 @@
 |`2022-09-13`| 자료구조 | `실버4` | [큐](https://www.acmicpc.net/problem/10845) | [풀이](https://github.com/jangwon3828/Algorithm_Competition-Study/blob/woojin/2%EC%A3%BC%EC%B0%A8/2%EC%A3%BC%EC%B0%A8_%EC%9A%B0%EC%A7%84/%ED%81%90.java) |
 |`2022-09-13`| 자료구조 | `실버4` | [덱](https://www.acmicpc.net/problem/10866) | [풀이](https://github.com/jangwon3828/Algorithm_Competition-Study/blob/woojin/2%EC%A3%BC%EC%B0%A8/2%EC%A3%BC%EC%B0%A8_%EC%9A%B0%EC%A7%84/%EB%8D%B1.java) |
 |`2022-09-13`| 그래프 | `골드5` | [ABCDE](https://www.acmicpc.net/problem/13023) | [풀이](https://github.com/jangwon3828/Algorithm_Competition-Study/blob/woojin/2%EC%A3%BC%EC%B0%A8/2%EC%A3%BC%EC%B0%A8_%EC%9A%B0%EC%A7%84/ABCBE.java) |
-|`2022-09-14`| DFS, BFS | `실버2` | [DFS와 BFS](https://www.acmicpc.net/problem/1260) | [풀이]https://github.com/jangwon3828/Algorithm_Competition-Study/blob/woojin/2%EC%A3%BC%EC%B0%A8/2%EC%A3%BC%EC%B0%A8_%EC%9A%B0%EC%A7%84/DFS%EC%99%80%20BFS.java) |
+|`2022-09-14`| DFS, BFS | `실버2` | [DFS와 BFS](https://www.acmicpc.net/problem/1260) | [풀이](https://github.com/jangwon3828/Algorithm_Competition-Study/blob/woojin/2%EC%A3%BC%EC%B0%A8/2%EC%A3%BC%EC%B0%A8_%EC%9A%B0%EC%A7%84/DFS%EC%99%80%20BFS.java) |
 </div>
