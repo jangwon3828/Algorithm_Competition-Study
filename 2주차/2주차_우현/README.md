@@ -10,4 +10,5 @@
 |`2022-09-14`| 브루트 포스 | `브론즈2` | [블랙잭](https://www.acmicpc.net/problem/2798) | [풀이](https://github.com/jangwon3828/Algorithm_Competition-Study/blob/woohyeon/2%EC%A3%BC%EC%B0%A8/2%EC%A3%BC%EC%B0%A8_%EC%9A%B0%ED%98%84/%EB%B8%94%EB%9E%99%EC%9E%AD.java) |
 |`2022-09-15`| 브루트 포스 | `브론즈2` | [분해합](https://www.acmicpc.net/problem/2231) | [풀이](https://github.com/jangwon3828/Algorithm_Competition-Study/blob/woohyeon/2%EC%A3%BC%EC%B0%A8/2%EC%A3%BC%EC%B0%A8_%EC%9A%B0%ED%98%84/%EB%B6%84%ED%95%B4%ED%95%A9.java) |
 |`2022-09-15`| 브루트 포스 | `실버5` | [덩치](https://www.acmicpc.net/problem/7568) | [풀이](https://github.com/jangwon3828/Algorithm_Competition-Study/blob/woohyeon/2%EC%A3%BC%EC%B0%A8/2%EC%A3%BC%EC%B0%A8_%EC%9A%B0%ED%98%84/%EB%8D%A9%EC%B9%98.java) |
+|`2022-09-15`| 브루트 포스 | `실버5` | [영화감독 숌](https://www.acmicpc.net/problem/1436) | [풀이](https://github.com/jangwon3828/Algorithm_Competition-Study/blob/woohyeon/2%EC%A3%BC%EC%B0%A8/2%EC%A3%BC%EC%B0%A8_%EC%9A%B0%ED%98%84/%EC%98%81%ED%99%94%EA%B0%90%EB%8F%85%20%EC%88%8C.java) |
 </div>
