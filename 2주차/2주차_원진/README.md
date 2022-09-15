@@ -14,5 +14,8 @@
 | `2022-09-14` |      DP       | `실버3` |   [1로만들기](https://www.acmicpc.net/problem/1463)   | [풀이](https://github.com/jangwon3828/Algorithm_Competition-Study/blob/wonjin/2%EC%A3%BC%EC%B0%A8/2%EC%A3%BC%EC%B0%A8_%EC%9B%90%EC%A7%84/%EC%9D%BC%EB%A1%9C%EB%A7%8C%EB%93%A4%EA%B8%B0.java) |
 | `2022-09-14` |DP | `실버3` | [2xN 타일링](https://www.acmicpc.net/problem/11726)  | [풀이](https://github.com/jangwon3828/Algorithm_Competition-Study/blob/wonjin/2%EC%A3%BC%EC%B0%A8/2%EC%A3%BC%EC%B0%A8_%EC%9B%90%EC%A7%84/%EC%9D%B4%EA%B3%B1%ED%95%98%EA%B8%B0n%ED%83%80%EC%9D%BC%EB%A7%81.java) |
 | `2022-09-14` | DP | `실버3` | [2xN 타일링2](https://www.acmicpc.net/problem/11727) | [풀이](https://github.com/jangwon3828/Algorithm_Competition-Study/blob/wonjin/2%EC%A3%BC%EC%B0%A8/2%EC%A3%BC%EC%B0%A8_%EC%9B%90%EC%A7%84/%EC%9D%B4%EA%B3%B1%ED%95%98%EA%B8%B0n%ED%83%80%EC%9D%BC%EB%A7%812.java) |
+| `2022-09-14` | DP | `실버3` | [1,2,3 더하기](https://www.acmicpc.net/problem/9095) | [풀이](https://github.com/jangwon3828/Algorithm_Competition-Study/blob/wonjin/2%EC%A3%BC%EC%B0%A8/2%EC%A3%BC%EC%B0%A8_%EC%9B%90%EC%A7%84/_123%EB%8D%94%ED%95%98%EA%B8%B0.java) |
+| `2022-09-14` | DP | `실버1` | [카드 구매하기](https://www.acmicpc.net/problem/11052)  | [풀이](https://github.com/jangwon3828/Algorithm_Competition-Study/blob/wonjin/2%EC%A3%BC%EC%B0%A8/2%EC%A3%BC%EC%B0%A8_%EC%9B%90%EC%A7%84/%EC%B9%B4%EB%93%9C%EA%B5%AC%EB%A7%A4%ED%95%98%EA%B8%B0.java) |
+| `2022-09-14` | DP | `실버1` | [카드 구매하기2](https://www.acmicpc.net/problem/16194) | [풀이](https://github.com/jangwon3828/Algorithm_Competition-Study/blob/wonjin/2%EC%A3%BC%EC%B0%A8/2%EC%A3%BC%EC%B0%A8_%EC%9B%90%EC%A7%84/%EC%B9%B4%EB%93%9C%EA%B5%AC%EB%A7%A4%ED%95%98%EA%B8%B02.java) |
 
 </div>
