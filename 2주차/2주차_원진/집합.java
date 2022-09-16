@@ -45,6 +45,7 @@ public class 집합 {
                     break;
             }
         }
+
         System.out.print(sb);
     }
 }
