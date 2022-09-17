@@ -1,8 +1,6 @@
-
 <div align="center">
-  
-  ## 📅 2주차
 
+## 📅 2주차
 
 |      요일      |    알고리즘 분류    |  티어   |                            문제                             | 내풀이 |
 |:------------:|:-------------:|:-----:|:---------------------------------------------------------:| :---:|
@@ -20,5 +18,8 @@
 | `2022-09-16` | DP | `실버2` |    [1,2,3 더하기5](https://www.acmicpc.net/problem/15990)    | [풀이](https://github.com/jangwon3828/Algorithm_Competition-Study/blob/wonjin/2%EC%A3%BC%EC%B0%A8/2%EC%A3%BC%EC%B0%A8_%EC%9B%90%EC%A7%84/_123%EB%8D%94%ED%95%98%EA%B8%B0_5.java) |
 | `2022-09-16` | DP | `실버1` | [가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053)  | [풀이](https://github.com/jangwon3828/Algorithm_Competition-Study/blob/wonjin/2%EC%A3%BC%EC%B0%A8/2%EC%A3%BC%EC%B0%A8_%EC%9B%90%EC%A7%84/%EA%B0%80%EC%9E%A5%EA%B8%B4%EC%A6%9D%EA%B0%80%ED%95%98%EB%8A%94%EB%B6%80%EB%B6%84%EC%88%98%EC%97%B4.java) |
 | `2022-09-16` | DP | `실버1` | [가장 긴 증가하는 부분 수열5](https://www.acmicpc.net/problem/14002) | [풀이](https://github.com/jangwon3828/Algorithm_Competition-Study/blob/wonjin/2%EC%A3%BC%EC%B0%A8/2%EC%A3%BC%EC%B0%A8_%EC%9B%90%EC%A7%84/%EA%B0%80%EC%9E%A5%EA%B8%B4%EC%A6%9D%EA%B0%80%ED%95%98%EB%8A%94%EB%B6%80%EB%B6%84%EC%88%9C%EC%97%B45.java) |
+| `2022-09-16` | DP | `실버1` |      [쉬운계단수](https://www.acmicpc.net/problem/10844)       | [풀이](https://github.com/jangwon3828/Algorithm_Competition-Study/blob/wonjin/2%EC%A3%BC%EC%B0%A8/2%EC%A3%BC%EC%B0%A8_%EC%9B%90%EC%A7%84/%EC%89%AC%EC%9A%B4%EA%B3%84%EB%8B%A8%EC%88%98.java) |
+| `2022-09-16` | DP | `실버1` |        [연속합](https://www.acmicpc.net/problem/1912)        | [풀이](https://github.com/jangwon3828/Algorithm_Competition-Study/blob/wonjin/2%EC%A3%BC%EC%B0%A8/2%EC%A3%BC%EC%B0%A8_%EC%9B%90%EC%A7%84/%EC%97%B0%EC%86%8D%ED%95%A9.java) |
+| `2022-09-16` | DP | `실버1` |        [이친수](https://www.acmicpc.net/problem/2193)        | [풀이](https://github.com/jangwon3828/Algorithm_Competition-Study/blob/wonjin/2%EC%A3%BC%EC%B0%A8/2%EC%A3%BC%EC%B0%A8_%EC%9B%90%EC%A7%84/%EC%9D%B4%EC%B9%9C%EC%88%98.java) |
 
 </div>
