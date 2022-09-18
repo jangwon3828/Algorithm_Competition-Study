@@ -20,5 +20,8 @@
 |`2022-09-16`| DFS, BFS | `실버1` | [나이트의 이동](https://www.acmicpc.net/problem/7562) | [풀이](https://github.com/jangwon3828/Algorithm_Competition-Study/blob/woojin/2%EC%A3%BC%EC%B0%A8/2%EC%A3%BC%EC%B0%A8_%EC%9A%B0%EC%A7%84/%EB%82%98%EC%9D%B4%ED%8A%B8%EC%9D%98%20%EC%9D%B4%EB%8F%99.java) |
 |`2022-09-17`| DFS, BFS | `실버1` | [숨바꼭질](https://www.acmicpc.net/problem/1697) | [풀이](https://github.com/jangwon3828/Algorithm_Competition-Study/blob/woojin/2%EC%A3%BC%EC%B0%A8/2%EC%A3%BC%EC%B0%A8_%EC%9A%B0%EC%A7%84/%EC%88%A8%EB%B0%94%EA%BC%AD%EC%A7%88.java) |
 |`2022-09-17`| DFS, BFS | `골드4` | [숨바꼭질4](https://www.acmicpc.net/problem/13913) | [풀이](https://github.com/jangwon3828/Algorithm_Competition-Study/blob/woojin/2%EC%A3%BC%EC%B0%A8/2%EC%A3%BC%EC%B0%A8_%EC%9A%B0%EC%A7%84/%EC%88%A8%EB%B0%94%EA%BC%AD%EC%A7%884.java) |
+|`2022-09-18`| DFS, BFS | `골드4` | [이모티콘](https://www.acmicpc.net/problem/14226) | [풀이](https://github.com/jangwon3828/Algorithm_Competition-Study/blob/woojin/2%EC%A3%BC%EC%B0%A8/2%EC%A3%BC%EC%B0%A8_%EC%9A%B0%EC%A7%84/%EC%9D%B4%EB%AA%A8%ED%8B%B0%EC%BD%98.java) |
+|`2022-09-18`| DFS, BFS | `골드5` | [숨바꼭질3](https://www.acmicpc.net/problem/13549) | [풀이](https://github.com/jangwon3828/Algorithm_Competition-Study/blob/woojin/2%EC%A3%BC%EC%B0%A8/2%EC%A3%BC%EC%B0%A8_%EC%9A%B0%EC%A7%84/%EC%88%A8%EB%B0%94%EA%BC%AD%EC%A7%88%203.java) |
+|`2022-09-18`| DFS, BFS | `골드4` | [알고스팟](https://www.acmicpc.net/problem/1261) | [풀이](https://github.com/jangwon3828/Algorithm_Competition-Study/blob/woojin/2%EC%A3%BC%EC%B0%A8/2%EC%A3%BC%EC%B0%A8_%EC%9A%B0%EC%A7%84/%EC%95%8C%EA%B3%A0%EC%8A%A4%ED%8C%9F.java) |
 
 </div>
