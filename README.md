@@ -42,7 +42,10 @@
 | **1주차**| 원진 | 브루트 포스, 재귀, 순열  | `실버5~골드1` | [원진-1주차](https://github.com/jangwon3828/2022-Algorithm-Study/tree/main/1%EC%A3%BC%EC%B0%A8/1%EC%A3%BC%EC%B0%A8_%EC%9B%90%EC%A7%84) | `완료` |
 | -| 우진 | 재귀, 비트 마스크, DP  |`실버5~골드1`| [우진-1주차](https://github.com/jangwon3828/2022-Algorithm-Study/tree/main/1%EC%A3%BC%EC%B0%A8/1%EC%A3%BC%EC%B0%A8_%EC%9A%B0%EC%A7%84) | `완료` |
 | -|  우현 |누적합, 정렬, 이분탐색 | `실버5~골드1` | [우현-1주차](https://github.com/jangwon3828/2022-Algorithm-Study/tree/main/1%EC%A3%BC%EC%B0%A8/1%EC%A3%BC%EC%B0%A8_%EC%9A%B0%ED%98%84) |`완료` |
-| **2주차**| 원진 | `진행중`| `실버5~골드1` | [원진-2주차](https://github.com/jangwon3828/Algorithm_Competition-Study/tree/main/2%EC%A3%BC%EC%B0%A8/2%EC%A3%BC%EC%B0%A8_%EC%9B%90%EC%A7%84) | `진행중` |
-| -| 우진 |`진행중` |`실버5~골드1`| [우진-2주차](https://github.com/jangwon3828/Algorithm_Competition-Study/tree/main/2%EC%A3%BC%EC%B0%A8/2%EC%A3%BC%EC%B0%A8_%EC%9A%B0%EC%A7%84) | `진행중` |
-| -|  우현 |`진행중`| `실버5~골드1` | [우현-2주차](https://github.com/jangwon3828/Algorithm_Competition-Study/tree/main/2%EC%A3%BC%EC%B0%A8/2%EC%A3%BC%EC%B0%A8_%EC%9A%B0%ED%98%84) |`진행중` |
+| **2주차**| 원진 |순열, 비트마스크, DP| `실버5~골드1` | [원진-2주차](https://github.com/jangwon3828/Algorithm_Competition-Study/tree/main/2%EC%A3%BC%EC%B0%A8/2%EC%A3%BC%EC%B0%A8_%EC%9B%90%EC%A7%84) |`완료` |
+| -| 우진 |DP, 자료구조, 그래프, BFS, DFS |`실버5~골드1`| [우진-2주차](https://github.com/jangwon3828/Algorithm_Competition-Study/tree/main/2%EC%A3%BC%EC%B0%A8/2%EC%A3%BC%EC%B0%A8_%EC%9A%B0%EC%A7%84) | `완료`|
+| -|  우현 | 큐,그래프, 브루트 포스, 재귀 그리디| `실버5~골드1` | [우현-2주차](https://github.com/jangwon3828/Algorithm_Competition-Study/tree/main/2%EC%A3%BC%EC%B0%A8/2%EC%A3%BC%EC%B0%A8_%EC%9A%B0%ED%98%84) |`완료`|
+| **3주차**| 원진 | `진행중`| `실버5~골드1` | [원진-3주차](https://github.com/jangwon3828/Algorithm_Competition-Study/tree/main/2%EC%A3%BC%EC%B0%A8/2%EC%A3%BC%EC%B0%A8_%EC%9B%90%EC%A7%84) | `진행중` |
+| -| 우진 |`진행중` |`실버5~골드1`| [우진-3주차](https://github.com/jangwon3828/Algorithm_Competition-Study/tree/main/2%EC%A3%BC%EC%B0%A8/2%EC%A3%BC%EC%B0%A8_%EC%9A%B0%EC%A7%84) | `진행중` |
+| -|  우현 |`진행중`| `실버5~골드1` | [우현-3주차](https://github.com/jangwon3828/Algorithm_Competition-Study/tree/main/2%EC%A3%BC%EC%B0%A8/2%EC%A3%BC%EC%B0%A8_%EC%9A%B0%ED%98%84) |`진행중` |
 
