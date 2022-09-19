@@ -50,7 +50,7 @@ public class Main{
         sum += one;
 
         System.out.println(sum);
-
+ 
 
     }
 }
