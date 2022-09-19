@@ -27,6 +27,6 @@ public class Main{
             result += Integer.parseInt(str[i]);
         }
 
-        return result;
+        return result; 
     }
 }
