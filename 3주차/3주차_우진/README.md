@@ -15,4 +15,6 @@
 |`2022-09-21`| 구현 | `골드3` | [경사로](https://www.acmicpc.net/problem/14890) | [풀이](https://github.com/jangwon3828/Algorithm_Competition-Study/blob/woojin/3%EC%A3%BC%EC%B0%A8/3%EC%A3%BC%EC%B0%A8_%EC%9A%B0%EC%A7%84/%EA%B2%BD%EC%82%AC%EB%A1%9C.java) |
 |`2022-09-21`| 구현 | `골드4` | [드래곤 커브](https://www.acmicpc.net/problem/15685) | [풀이](https://github.com/jangwon3828/Algorithm_Competition-Study/blob/woojin/3%EC%A3%BC%EC%B0%A8/3%EC%A3%BC%EC%B0%A8_%EC%9A%B0%EC%A7%84/%EB%93%9C%EB%9E%98%EA%B3%A4%EC%BB%A4%EB%B8%8C.java) |
 |`2022-09-22`| 구현 | `실버2` | [LCD Test](https://www.acmicpc.net/problem/2290) | [풀이](https://github.com/jangwon3828/Algorithm_Competition-Study/blob/woojin/3%EC%A3%BC%EC%B0%A8/3%EC%A3%BC%EC%B0%A8_%EC%9A%B0%EC%A7%84/LCD%20Test.java) |
+|`2022-09-23`| 구현 | `실버2` | [겉넓이 구하기](https://www.acmicpc.net/problem/16931) | [풀이](https://github.com/jangwon3828/Algorithm_Competition-Study/blob/woojin/3%EC%A3%BC%EC%B0%A8/3%EC%A3%BC%EC%B0%A8_%EC%9A%B0%EC%A7%84/%EA%B2%89%EB%84%93%EC%9D%B4%20%EA%B5%AC%ED%95%98%EA%B8%B0.java) |
+|`2022-09-23`| 구현 | `골드1` | [정육면체 전개도](https://www.acmicpc.net/problem/1917) | [풀이](https://github.com/jangwon3828/Algorithm_Competition-Study/blob/woojin/3%EC%A3%BC%EC%B0%A8/3%EC%A3%BC%EC%B0%A8_%EC%9A%B0%EC%A7%84/%EC%A0%95%EC%9C%A1%EB%A9%B4%EC%B2%B4%20%EC%A0%84%EA%B0%9C%EB%8F%84.java) |
 </div>
