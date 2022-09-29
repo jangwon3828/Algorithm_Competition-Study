@@ -11,4 +11,5 @@
 | `2022-09-27` | 덱,자료구조  | `실버4` |   [덱 ](https://www.acmicpc.net/problem/10866)    | [풀이](https://github.com/jangwon3828/Algorithm_Competition-Study/blob/wonjin/4%EC%A3%BC%EC%B0%A8/4%EC%A3%BC%EC%B0%A8_%EC%9B%90%EC%A7%84/%EB%8D%B1.java) |
 | `2022-09-28` |   구현    | `실버1` | [배열돌리기1 ](https://www.acmicpc.net/problem/16929) | [풀이](https://github.com/jangwon3828/Algorithm_Competition-Study/blob/wonjin/4%EC%A3%BC%EC%B0%A8/4%EC%A3%BC%EC%B0%A8_%EC%9B%90%EC%A7%84/%EB%B0%B0%EC%97%B4%EB%8F%8C%EB%A6%AC%EA%B8%B01.java) |
 | `2022-09-28` |   구현    | `실버1` | [배열돌리기3](https://www.acmicpc.net/problem/16935)  | [풀이](https://github.com/jangwon3828/Algorithm_Competition-Study/blob/wonjin/4%EC%A3%BC%EC%B0%A8/4%EC%A3%BC%EC%B0%A8_%EC%9B%90%EC%A7%84/%EB%B0%B0%EC%97%B4%EB%8F%8C%EB%A6%AC%EA%B8%B03.java) |
+| `2022-09-28` |   구현    | `골드5` | [배열돌리기2](https://www.acmicpc.net/problem/16927)  | [풀이](https://github.com/jangwon3828/Algorithm_Competition-Study/blob/wonjin/4%EC%A3%BC%EC%B0%A8/4%EC%A3%BC%EC%B0%A8_%EC%9B%90%EC%A7%84/%EB%B0%B0%EC%97%B4%EB%8F%8C%EB%A6%AC%EA%B8%B02.java) |
 </div>
