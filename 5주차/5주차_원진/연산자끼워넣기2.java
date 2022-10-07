@@ -54,4 +54,3 @@ class Pair {
         this.min = min;
         this.max = max;
     }
-}
