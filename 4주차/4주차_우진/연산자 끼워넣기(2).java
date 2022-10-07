@@ -1,14 +1,21 @@
-package baekjoon;
-
 import java.util.*;
 
-public class 연산자끼워넣기2 {
-    static Pairs calc(int[] a, int index, int cur, int plus, int minus, int mul, int div) {
+public class 연산자 끼워넣기(2) {
+
+    static class Pair {
+        public int min, max;
+        Pair(int min, int max) {
+            this.min = min;
+            this.max = max;
+        }
+    }
+
+    static Pair calc(int[] a, int index, int cur, int plus, int minus, int mul, int div) {
         int n = a.length;
         if (index == n) {
-            return new Pairs(cur, cur);
+            return new Pair(cur, cur);
         }
-        ArrayList<Pairs> res = new ArrayList<>();
+        ArrayList<Pair> res = new ArrayList<>();
         if (plus > 0){
             res.add(calc(a,index+1,cur+a[index],plus-1,minus,mul,div));
         }
@@ -21,8 +28,8 @@ public class 연산자끼워넣기2 {
         if (div > 0) {
             res.add(calc(a,index+1,cur/a[index],plus,minus,mul,div-1));
         }
-        Pairs ans = res.get(0);
-        for (Pairs p : res) {
+        Pair ans = res.get(0);
+        for (Pair p : res) {
             if (ans.max < p.max) {
                 ans.max = p.max;
             }
@@ -43,14 +50,8 @@ public class 연산자끼워넣기2 {
         int minus = sc.nextInt();
         int mul = sc.nextInt();
         int div = sc.nextInt();
-        Pairs ans = calc(a, 1, a[0], plus, minus, mul, div);
+        Pair ans = calc(a, 1, a[0], plus, minus, mul, div);
         System.out.println(ans.max);
         System.out.println(ans.min);
     }
 }
-class Pair {
-    public int min, max;
-    Pair(int min, int max) {
-        this.min = min;
-        this.max = max;
-    }
