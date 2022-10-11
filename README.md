@@ -12,6 +12,7 @@
 | :----: | :----: | :----: |
 | [장원진](https://github.com/jangwon3828) | [정우진](https://github.com/WooJinDeve)| [조우현](https://github.com/woohyeonjoe) |
 
+
 ## 스터디 방식
 #### 문제 풀이
 1. **일주일에 7문제 이상 문제 풀이를 진행함.(하루에 한문제)**
@@ -51,7 +52,11 @@
 | **4주차**| 원진 | DP, 자료구조, 구현| `실버5~골드1` | [원진-4주차](https://github.com/jangwon3828/Algorithm_Competition-Study/tree/main/2%EC%A3%BC%EC%B0%A8/2%EC%A3%BC%EC%B0%A8_%EC%9B%90%EC%A7%84) | `완료`|
 | -| 우진 |재귀, 백트래킹, 순열 |`실버5~골드1`| [우진-4주차](https://github.com/jangwon3828/Algorithm_Competition-Study/tree/main/4%EC%A3%BC%EC%B0%A8/4%EC%A3%BC%EC%B0%A8_%EC%9A%B0%EC%A7%84) | `완료` |
 | -|  우현 |백트래킹, 정렬, 큐| `실버5~골드1` | [우현-4주차](https://github.com/jangwon3828/Algorithm_Competition-Study/tree/main/2%EC%A3%BC%EC%B0%A8/2%EC%A3%BC%EC%B0%A8_%EC%9A%B0%ED%98%84) |`완료` |
-| **5주차**| 원진 | `진행중` | `실버5~골드1` | [원진-5주차](https://github.com/jangwon3828/Algorithm_Competition-Study/tree/main/2%EC%A3%BC%EC%B0%A8/2%EC%A3%BC%EC%B0%A8_%EC%9B%90%EC%A7%84) |`진행중`|
-| -| 우진 | `진행중` |`실버5~골드1`| [우진-5주차](https://github.com/jangwon3828/Algorithm_Competition-Study/tree/main/4%EC%A3%BC%EC%B0%A8/4%EC%A3%BC%EC%B0%A8_%EC%9A%B0%EC%A7%84) | `진행중`|
-| -|  우현 | `진행중`| `실버5~골드1` | [우현-5주차](https://github.com/jangwon3828/Algorithm_Competition-Study/tree/main/2%EC%A3%BC%EC%B0%A8/2%EC%A3%BC%EC%B0%A8_%EC%9A%B0%ED%98%84) |`진행중` |
+| **5주차**| 원진 | 브루트포스 | `실버5~골드1` | [원진-5주차](https://github.com/jangwon3828/Algorithm_Competition-Study/tree/main/5%EC%A3%BC%EC%B0%A8/5%EC%A3%BC%EC%B0%A8_%EC%9B%90%EC%A7%84) |`완료`|
+| -| 우진 |비트마스크, BFS, 두포인터, 이분탐색|`실버5~골드1`| [우진-5주차](https://github.com/jangwon3828/Algorithm_Competition-Study/tree/main/5%EC%A3%BC%EC%B0%A8/5%EC%A3%BC%EC%B0%A8_%EC%9A%B0%EC%A7%84) | `완료`|
+| -|  우현 | 큐, 정렬, 수학, 브루트 포스| `실버5~골드1` | [우현-5주차](https://github.com/jangwon3828/Algorithm_Competition-Study/tree/main/5%EC%A3%BC%EC%B0%A8/5%EC%A3%BC%EC%B0%A8_%EC%9A%B0%ED%98%84) |`완료` |
+| **6주차**| 원진 | `진행중` | `실버5~골드1` | [원진-6주차](https://github.com/jangwon3828/Algorithm_Competition-Study/tree/main/5%EC%A3%BC%EC%B0%A8/5%EC%A3%BC%EC%B0%A8_%EC%9B%90%EC%A7%84) |`진행중`|
+| -| 우진 |`진행중`|`실버5~골드1`| [우진-6주차](https://github.com/jangwon3828/Algorithm_Competition-Study/tree/main/5%EC%A3%BC%EC%B0%A8/5%EC%A3%BC%EC%B0%A8_%EC%9A%B0%EC%A7%84) | `진행중`|
+| -|  우현 |`진행중`| `실버5~골드1` | [우현-6주차](https://github.com/jangwon3828/Algorithm_Competition-Study/tree/main/5%EC%A3%BC%EC%B0%A8/5%EC%A3%BC%EC%B0%A8_%EC%9A%B0%ED%98%84) |`진행중` |
+
 
