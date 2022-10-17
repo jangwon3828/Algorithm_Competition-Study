@@ -1,0 +1,9 @@
+<div align="center">
+  
+  ## 📅 7주차
+
+| 요일 | 알고리즘 분류 | 티어  | 문제| 내풀이 |
+| :---: | :---: | :---: | :---: | :---:|
+|`2022-10-17`| 수학 | `브론즈1` | [소인수분해](https://www.acmicpc.net/problem/11653) | [풀이](https://github.com/jangwon3828/Algorithm_Competition-Study/blob/woohyeon/7%EC%A3%BC%EC%B0%A8/7%EC%A3%BC%EC%B0%A8_%EC%9A%B0%ED%98%84/%EC%86%8C%EC%9D%B8%EC%88%98%20%EB%B6%84%ED%95%B4.java) |
+
+</div>
