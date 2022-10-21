@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Scanner;
 
-public class 부등호 {
+public class 학부등호 {
 
     static int n;
     static char[] arr;
