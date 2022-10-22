@@ -9,4 +9,5 @@
 | `2022-10-19` |  BFS  | `골드4` | [연구소](https://www.acmicpc.net/problem/14502) | [풀이](https://github.com/jangwon3828/Algorithm_Competition-Study/blob/woojin/7%EC%A3%BC%EC%B0%A8/7%EC%A3%BC%EC%B0%A8%20%EC%9A%B0%EC%A7%84/%EB%8F%8C%20%EA%B7%B8%EB%A3%B9.java) |
 | `2022-10-21` |  BFS  | `골드4` | [돌 그룹](https://www.acmicpc.net/problem/12886) | [풀이](https://github.com/jangwon3828/Algorithm_Competition-Study/blob/woojin/7%EC%A3%BC%EC%B0%A8/7%EC%A3%BC%EC%B0%A8%20%EC%9A%B0%EC%A7%84/%EC%97%B0%EA%B5%AC%EC%86%8C.java) |
 | `2022-10-21` |  BFS  | `골드4` | [벽 부수고 이동하기](https://www.acmicpc.net/problem/2206) | [풀이](https://github.com/jangwon3828/Algorithm_Competition-Study/blob/woojin/7%EC%A3%BC%EC%B0%A8/7%EC%A3%BC%EC%B0%A8%20%EC%9A%B0%EC%A7%84/%EB%B2%BD%20%EB%B6%80%EC%88%98%EA%B3%A0%20%EC%9D%B4%EB%8F%99%ED%95%98%EA%B8%B0.java) |
+| `2022-10-22` |  BFS  | `골드2` | [벽 부수고 이동하기4](https://www.acmicpc.net/problem/16946) | [풀이](https://github.com/jangwon3828/Algorithm_Competition-Study/blob/woojin/7%EC%A3%BC%EC%B0%A8/7%EC%A3%BC%EC%B0%A8%20%EC%9A%B0%EC%A7%84/%EB%B2%BD%20%EB%B6%80%EC%88%98%EA%B3%A0%20%EC%9D%B4%EB%8F%99%ED%95%98%EA%B8%B04.java) |
 </div>
