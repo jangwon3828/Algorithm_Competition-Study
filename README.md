@@ -58,8 +58,11 @@
 | **6주차**| 원진 | 브루트포스 | `실버5~골드1` | [원진-6주차](https://github.com/jangwon3828/Algorithm_Competition-Study/tree/main/6%EC%A3%BC%EC%B0%A8/6%EC%A3%BC%EC%B0%A8_%EC%9B%90%EC%A7%84) |`완료`|
 | -| 우진 |그래프이론|`실버5~골드1`| [우진-6주차](https://github.com/jangwon3828/Algorithm_Competition-Study/tree/main/6%EC%A3%BC%EC%B0%A8/6%EC%A3%BC%EC%B0%A8%20%EC%9A%B0%EC%A7%84) | `완료`|
 | -|  우현 |브루트포스, 수학, 정렬| `실버5~골드1` | [우현-6주차](https://github.com/jangwon3828/Algorithm_Competition-Study/tree/main/6%EC%A3%BC%EC%B0%A8/6%EC%A3%BC%EC%B0%A8_%EC%9A%B0%ED%98%84) |`완료` |
-| **7주차**| 원진 | `진행중` | `실버5~골드1` | [원진-7주차](https://github.com/jangwon3828/Algorithm_Competition-Study/tree/main/5%EC%A3%BC%EC%B0%A8/5%EC%A3%BC%EC%B0%A8_%EC%9B%90%EC%A7%84) |`진행중`|
-| -| 우진 |`진행중`|`실버5~골드1`| [우진-7주차](https://github.com/jangwon3828/Algorithm_Competition-Study/tree/main/5%EC%A3%BC%EC%B0%A8/5%EC%A3%BC%EC%B0%A8_%EC%9A%B0%EC%A7%84) | `진행중`|
-| -|  우현 |`진행중`| `실버5~골드1` | [우현-7주차](https://github.com/jangwon3828/Algorithm_Competition-Study/tree/main/5%EC%A3%BC%EC%B0%A8/5%EC%A3%BC%EC%B0%A8_%EC%9A%B0%ED%98%84) |`진행중` |
+| **7주차**| 원진 | 브루트포스  | `실버5~골드1` | [원진-7주차](https://github.com/jangwon3828/Algorithm_Competition-Study/tree/main/7%EC%A3%BC%EC%B0%A8/7%EC%A3%BC%EC%B0%A8_%EC%9B%90%EC%A7%84) |`완료`|
+| -| 우진 |BFS/DFS|`실버5~골드1`| [우진-7주차](https://github.com/jangwon3828/Algorithm_Competition-Study/tree/main/7%EC%A3%BC%EC%B0%A8/7%EC%A3%BC%EC%B0%A8%20%EC%9A%B0%EC%A7%84) | `완료`|
+| -|  우현 |스택,큐,해시| `실버5~골드1` | [우현-7주차](https://github.com/jangwon3828/Algorithm_Competition-Study/tree/main/7%EC%A3%BC%EC%B0%A8/7%EC%A3%BC%EC%B0%A8_%EC%9A%B0%ED%98%84) |`완료` |
+| **8주차**| 원진 | `진행중` | `실버5~골드1` | [원진-8주차](https://github.com/jangwon3828/Algorithm_Competition-Study/tree/main/8%EC%A3%BC%EC%B0%A8/8%EC%A3%BC%EC%B0%A8_%EC%9B%90%EC%A7%84) |`진행중`|
+| -| 우진 |`진행중`|`실버5~골드1`| [우진-8주차](https://github.com/jangwon3828/Algorithm_Competition-Study/tree/main/8%EC%A3%BC%EC%B0%A8/8%EC%A3%BC%EC%B0%A8_%EC%9A%B0%EC%A7%84) | `진행중`|
+| -|  우현 |`진행중`| `실버5~골드1` | [우현-8주차](https://github.com/jangwon3828/Algorithm_Competition-Study/tree/main/8%EC%A3%BC%EC%B0%A8/8%EC%A3%BC%EC%B0%A8_%EC%9A%B0%ED%98%84) |`진행중` |
 
 
