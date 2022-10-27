@@ -11,4 +11,6 @@
 | `2022-10-26` |  BFS  | `골드5` | [4 연산](https://www.acmicpc.net/problem/14395) | [풀이](https://github.com/jangwon3828/Algorithm_Competition-Study/blob/woojin/8%EC%A3%BC%EC%B0%A8/8%EC%A3%BC%EC%B0%A8%20%EC%9A%B0%EC%A7%84/4%20%EC%97%B0%EC%82%B0.java) |
 | `2022-10-26` |  BFS  | `골드5` | [스타트링크](https://www.acmicpc.net/problem/5014) | [풀이](https://github.com/jangwon3828/Algorithm_Competition-Study/blob/woojin/8%EC%A3%BC%EC%B0%A8/8%EC%A3%BC%EC%B0%A8%20%EC%9A%B0%EC%A7%84/%EC%8A%A4%ED%83%80%ED%8A%B8%EB%A7%81%ED%81%AC.java) |
 | `2022-10-26` |  BFS  | `플레5` | [탈옥](https://www.acmicpc.net/problem/9376) | [풀이](https://github.com/jangwon3828/Algorithm_Competition-Study/blob/woojin/8%EC%A3%BC%EC%B0%A8/8%EC%A3%BC%EC%B0%A8%20%EC%9A%B0%EC%A7%84/%ED%83%88%EC%98%A5.java) |
+| `2022-10-27` |  BFS  | `골드4` | [연구소 2](https://www.acmicpc.net/problem/17141) | [풀이](https://github.com/jangwon3828/Algorithm_Competition-Study/blob/woojin/8%EC%A3%BC%EC%B0%A8/8%EC%A3%BC%EC%B0%A8%20%EC%9A%B0%EC%A7%84/%EC%97%B0%EA%B5%AC%EC%86%8C%202.java) |
+| `2022-10-27` |  BFS  | `골드4` | [연구소 3](https://www.acmicpc.net/problem/17142) | [풀이](https://github.com/jangwon3828/Algorithm_Competition-Study/blob/woojin/8%EC%A3%BC%EC%B0%A8/8%EC%A3%BC%EC%B0%A8%20%EC%9A%B0%EC%A7%84/%EC%97%B0%EA%B5%AC%EC%86%8C%203.java) |
 </div>
