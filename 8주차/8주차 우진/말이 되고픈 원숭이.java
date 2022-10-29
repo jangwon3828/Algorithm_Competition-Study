@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class baekjoon1600 {
+public class 말이 되고픈 원숭이 {
     static final int[] dx = {0,0,1,-1,-2,-1,1,2,2,1,-1,-2};
     static final int[] dy = {1,-1,0,0,1,2,2,1,-1,-2,-2,-1};
     static final int[] cost = {0,0,0,0,1,1,1,1,1,1,1,1};
